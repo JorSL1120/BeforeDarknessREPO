@@ -11,7 +11,7 @@ public class VidaPlayer : MonoBehaviour
     public float decreasespeed;
     public float decreasesprint;
     public bool isRecharging = false;
-    private float stop = 0.2f;
+    //private float stop = 0.2f;
 
     void Start()
     {
